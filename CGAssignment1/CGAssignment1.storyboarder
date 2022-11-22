@@ -1,0 +1,767 @@
+{
+  "version": "3.0.0",
+  "aspectRatio": "1.7777777777777777",
+  "fps": 24,
+  "defaultBoardTiming": 2000,
+  "boards": [
+    {
+      "uid": "V1RH3",
+      "url": "board-2-V1RH3.png",
+      "newShot": false,
+      "lastEdited": 1668100190150,
+      "layers": {
+        "reference": {
+          "url": "board-2-V1RH3-reference.png",
+          "opacity": 1
+        }
+      },
+      "number": 1,
+      "shot": "1A",
+      "time": 0,
+      "lineMileage": 0
+    },
+    {
+      "uid": "AO5MH",
+      "url": "board-3-AO5MH.png",
+      "newShot": false,
+      "lastEdited": 1668100198407,
+      "layers": {
+        "reference": {
+          "url": "board-3-AO5MH-reference.png",
+          "opacity": 1
+        }
+      },
+      "number": 2,
+      "shot": "2A",
+      "time": 2000
+    },
+    {
+      "uid": "3B3MV",
+      "url": "board-2-3B3MV.png",
+      "newShot": false,
+      "lastEdited": 1668090042497,
+      "layers": {
+        "reference": {
+          "url": "board-2-3B3MV-reference.png",
+          "opacity": 1
+        }
+      },
+      "number": 3,
+      "shot": "3A",
+      "time": 4000,
+      "lineMileage": 0,
+      "duration": "3000"
+    },
+    {
+      "uid": "EDGIV",
+      "url": "board-3-EDGIV.png",
+      "newShot": false,
+      "lastEdited": 1668090089916,
+      "layers": {
+        "reference": {
+          "url": "board-3-EDGIV-reference.png",
+          "opacity": 1
+        }
+      },
+      "number": 4,
+      "shot": "4A",
+      "time": 7000,
+      "audio": {
+        "filename": "EDGIV-steps.wav",
+        "duration": 2016.2499999999998
+      },
+      "duration": "3000"
+    },
+    {
+      "uid": "50VKK",
+      "url": "board-4-50VKK.png",
+      "newShot": false,
+      "lastEdited": 1668090100706,
+      "layers": {
+        "reference": {
+          "url": "board-4-50VKK-reference.png",
+          "opacity": 1
+        }
+      },
+      "number": 5,
+      "shot": "5A",
+      "time": 10000,
+      "action": "\n\n",
+      "lineMileage": 0,
+      "audio": {
+        "filename": "50VKK-Can kick.m4a",
+        "duration": 1811.0833333333335
+      },
+      "duration": "3000"
+    },
+    {
+      "uid": "LQMQY",
+      "url": "board-5-LQMQY.png",
+      "newShot": false,
+      "lastEdited": 1668090111959,
+      "layers": {
+        "reference": {
+          "url": "board-5-LQMQY-reference.png",
+          "opacity": 1
+        }
+      },
+      "number": 6,
+      "shot": "6A",
+      "time": 13000,
+      "duration": "3000"
+    },
+    {
+      "uid": "BLQAT",
+      "url": "board-6-BLQAT.png",
+      "newShot": false,
+      "lastEdited": 1668090161407,
+      "layers": {
+        "reference": {
+          "url": "board-6-BLQAT-reference.png",
+          "opacity": 1
+        },
+        "shot-generator": {
+          "url": "board-6-BLQAT-shot-generator.png",
+          "opacity": 1
+        },
+        "fill": {
+          "url": "board-6-BLQAT-fill.png"
+        },
+        "tone": {
+          "url": "board-6-BLQAT-tone.png"
+        },
+        "pencil": {
+          "url": "board-6-BLQAT-pencil.png"
+        },
+        "ink": {
+          "url": "board-6-BLQAT-ink.png"
+        },
+        "notes": {
+          "url": "board-6-BLQAT-notes.png"
+        }
+      },
+      "number": 7,
+      "shot": "7A",
+      "time": 16000,
+      "audio": {
+        "filename": "BLQAT-huh.wav",
+        "duration": 846.8541666666667
+      },
+      "duration": "3000"
+    },
+    {
+      "uid": "ZP18D",
+      "url": "board-7-ZP18D.png",
+      "newShot": false,
+      "lastEdited": 1668097050673,
+      "layers": {
+        "reference": {
+          "url": "board-7-ZP18D-reference.png",
+          "opacity": 1
+        }
+      },
+      "number": 8,
+      "shot": "8A",
+      "time": 19000,
+      "lineMileage": 0,
+      "duration": "3000"
+    },
+    {
+      "uid": "CLLEV",
+      "url": "board-8-CLLEV.png",
+      "newShot": false,
+      "lastEdited": 1668090409470,
+      "layers": {
+        "reference": {
+          "url": "board-8-CLLEV-reference.png",
+          "opacity": 1
+        }
+      },
+      "number": 9,
+      "shot": "9A",
+      "time": 22000,
+      "audio": {
+        "filename": "CLLEV-dorm-door-opening-6038.mp3",
+        "duration": 1728
+      },
+      "duration": "3000"
+    },
+    {
+      "uid": "KZ9JK",
+      "url": "board-9-KZ9JK.png",
+      "newShot": false,
+      "lastEdited": 1668090434193,
+      "layers": {
+        "reference": {
+          "url": "board-9-KZ9JK-reference.png",
+          "opacity": 1
+        }
+      },
+      "number": 10,
+      "shot": "10A",
+      "time": 25000,
+      "duration": "3000"
+    },
+    {
+      "uid": "RKOGX",
+      "url": "board-10-RKOGX.png",
+      "newShot": false,
+      "lastEdited": 1668090446244,
+      "layers": {
+        "reference": {
+          "url": "board-10-RKOGX-reference.png",
+          "opacity": 1
+        }
+      },
+      "number": 11,
+      "shot": "11A",
+      "time": 28000,
+      "audio": {
+        "filename": "RKOGX-steps.wav",
+        "duration": 2016.2499999999998
+      },
+      "duration": "3000"
+    },
+    {
+      "uid": "VZR91",
+      "url": "board-11-VZR91.png",
+      "newShot": false,
+      "lastEdited": 1668090460434,
+      "layers": {
+        "reference": {
+          "url": "board-11-VZR91-reference.png",
+          "opacity": 1
+        }
+      },
+      "number": 12,
+      "shot": "12A",
+      "time": 31000,
+      "duration": "3000"
+    },
+    {
+      "uid": "KZ77I",
+      "url": "board-12-KZ77I.png",
+      "newShot": false,
+      "lastEdited": 1668090526870,
+      "layers": {
+        "reference": {
+          "url": "board-12-KZ77I-reference.png",
+          "opacity": 1
+        },
+        "shot-generator": {
+          "url": "board-12-KZ77I-shot-generator.png",
+          "opacity": 1
+        },
+        "fill": {
+          "url": "board-12-KZ77I-fill.png"
+        },
+        "tone": {
+          "url": "board-12-KZ77I-tone.png"
+        },
+        "pencil": {
+          "url": "board-12-KZ77I-pencil.png"
+        },
+        "ink": {
+          "url": "board-12-KZ77I-ink.png"
+        },
+        "notes": {
+          "url": "board-12-KZ77I-notes.png"
+        }
+      },
+      "number": 13,
+      "shot": "13A",
+      "time": 34000,
+      "dialogue": "What is this place?",
+      "lineMileage": 0,
+      "duration": "3000"
+    },
+    {
+      "uid": "FM6ZW",
+      "url": "board-13-FM6ZW.png",
+      "newShot": false,
+      "lastEdited": 1668090550707,
+      "layers": {
+        "reference": {
+          "url": "board-13-FM6ZW-reference.png",
+          "opacity": 1
+        }
+      },
+      "number": 14,
+      "shot": "14A",
+      "time": 37000,
+      "dialogue": "",
+      "lineMileage": 0,
+      "audio": {
+        "filename": "FM6ZW-bookslide.wav",
+        "duration": 1459.0625
+      },
+      "duration": "3000"
+    },
+    {
+      "uid": "9UQ6U",
+      "url": "board-14-9UQ6U.png",
+      "newShot": false,
+      "lastEdited": 1668090600640,
+      "layers": {
+        "reference": {
+          "url": "board-14-9UQ6U-reference.png",
+          "opacity": 1
+        }
+      },
+      "number": 15,
+      "shot": "15A",
+      "time": 40000,
+      "audio": {
+        "filename": "9UQ6U-bookgrab.wav",
+        "duration": 1836.625
+      },
+      "duration": "3000"
+    },
+    {
+      "uid": "28XM6",
+      "url": "board-15-28XM6.png",
+      "newShot": false,
+      "lastEdited": 1668090780742,
+      "layers": {
+        "reference": {
+          "url": "board-15-28XM6-reference.png",
+          "opacity": 1
+        }
+      },
+      "number": 16,
+      "shot": "16A",
+      "time": 43000,
+      "duration": "3000"
+    },
+    {
+      "uid": "6JWQC",
+      "url": "board-16-6JWQC.png",
+      "newShot": false,
+      "lastEdited": 1668096510502,
+      "layers": {
+        "reference": {
+          "url": "board-16-6JWQC-reference.png",
+          "opacity": 1
+        }
+      },
+      "number": 17,
+      "shot": "17A",
+      "time": 46000,
+      "duration": "3000"
+    },
+    {
+      "uid": "G8GW2",
+      "url": "board-17-G8GW2.png",
+      "newShot": false,
+      "lastEdited": 1668090853698,
+      "layers": {
+        "reference": {
+          "url": "board-17-G8GW2-reference.png",
+          "opacity": 1
+        }
+      },
+      "number": 18,
+      "shot": "18A",
+      "time": 49000,
+      "lineMileage": 0,
+      "notes": "\n",
+      "dialogue": "Seriously,you sell jokes?",
+      "duration": "3000"
+    },
+    {
+      "uid": "Q0OOU",
+      "url": "board-18-Q0OOU.png",
+      "newShot": false,
+      "lastEdited": 1668090870642,
+      "layers": {
+        "reference": {
+          "url": "board-18-Q0OOU-reference.png",
+          "opacity": 1
+        }
+      },
+      "number": 19,
+      "shot": "19A",
+      "time": 52000,
+      "duration": "3000"
+    },
+    {
+      "uid": "7YQOM",
+      "url": "board-19-7YQOM.png",
+      "newShot": false,
+      "lastEdited": 1668090892453,
+      "layers": {
+        "reference": {
+          "url": "board-19-7YQOM-reference.png",
+          "opacity": 1
+        }
+      },
+      "number": 20,
+      "shot": "20A",
+      "time": 55000,
+      "dialogue": "OKAY, I can use a joke.",
+      "lineMileage": 0,
+      "duration": "3000"
+    },
+    {
+      "uid": "HKZJ9",
+      "url": "board-20-HKZJ9.png",
+      "newShot": false,
+      "lastEdited": 1668090899686,
+      "layers": {
+        "reference": {
+          "url": "board-20-HKZJ9-reference.png",
+          "opacity": 1
+        }
+      },
+      "number": 21,
+      "shot": "21A",
+      "time": 58000,
+      "duration": "3000"
+    },
+    {
+      "uid": "UD6TZ",
+      "url": "board-21-UD6TZ.png",
+      "newShot": false,
+      "lastEdited": 1668090928440,
+      "layers": {
+        "reference": {
+          "url": "board-21-UD6TZ-reference.png",
+          "opacity": 1
+        }
+      },
+      "number": 22,
+      "shot": "22A",
+      "time": 61000,
+      "dialogue": "I was in my garden looking at.............",
+      "lineMileage": 0,
+      "duration": "4000"
+    },
+    {
+      "uid": "JSHEJ",
+      "url": "board-22-JSHEJ.png",
+      "newShot": false,
+      "lastEdited": 1668090941779,
+      "layers": {
+        "reference": {
+          "url": "board-22-JSHEJ-reference.png",
+          "opacity": 1
+        }
+      },
+      "number": 23,
+      "shot": "23A",
+      "time": 65000,
+      "dialogue": "...........then i got a call that........haha",
+      "lineMileage": 0,
+      "duration": "4000"
+    },
+    {
+      "uid": "FRMFV",
+      "url": "board-23-FRMFV.png",
+      "newShot": false,
+      "lastEdited": 1668090953406,
+      "layers": {
+        "reference": {
+          "url": "board-23-FRMFV-reference.png",
+          "opacity": 1
+        }
+      },
+      "number": 24,
+      "shot": "24A",
+      "time": 69000,
+      "dialogue": "What is that man, you call that a joke?",
+      "lineMileage": 0,
+      "duration": "3000"
+    },
+    {
+      "uid": "70WGA",
+      "url": "board-24-70WGA.png",
+      "newShot": false,
+      "lastEdited": 1668091317431,
+      "layers": {
+        "reference": {
+          "url": "board-24-70WGA-reference.png",
+          "opacity": 1
+        }
+      },
+      "number": 25,
+      "shot": "25A",
+      "time": 72000,
+      "dialogue": "Yeah, didn't you like it?",
+      "lineMileage": 0,
+      "duration": "3000"
+    },
+    {
+      "uid": "5WX08",
+      "url": "board-25-5WX08.png",
+      "newShot": false,
+      "lastEdited": 1668091332669,
+      "layers": {
+        "reference": {
+          "url": "board-25-5WX08-reference.png",
+          "opacity": 1
+        }
+      },
+      "number": 26,
+      "shot": "26A",
+      "time": 75000,
+      "dialogue": "No, i didn't, it wasn't funny.",
+      "lineMileage": 0,
+      "duration": "3000"
+    },
+    {
+      "uid": "L4JLO",
+      "url": "board-26-L4JLO.png",
+      "newShot": false,
+      "lastEdited": 1668091350020,
+      "layers": {
+        "reference": {
+          "url": "board-26-L4JLO-reference.png",
+          "opacity": 1
+        }
+      },
+      "number": 27,
+      "shot": "27A",
+      "time": 78000,
+      "dialogue": "it is funny man, it's a good joke.",
+      "lineMileage": 0,
+      "duration": "3000"
+    },
+    {
+      "uid": "6SP6D",
+      "url": "board-27-6SP6D.png",
+      "newShot": false,
+      "lastEdited": 1668091361800,
+      "layers": {
+        "reference": {
+          "url": "board-27-6SP6D-reference.png",
+          "opacity": 1
+        }
+      },
+      "number": 28,
+      "shot": "28A",
+      "time": 81000,
+      "dialogue": "if it were a good joke i would have laughed.",
+      "lineMileage": 0,
+      "duration": "4000"
+    },
+    {
+      "uid": "7Y7RQ",
+      "url": "board-28-7Y7RQ.png",
+      "newShot": false,
+      "lastEdited": 1668091375037,
+      "layers": {
+        "reference": {
+          "url": "board-28-7Y7RQ-reference.png",
+          "opacity": 1
+        }
+      },
+      "number": 29,
+      "shot": "29A",
+      "time": 85000,
+      "dialogue": "maybe you didn't get the joke",
+      "lineMileage": 79.83288578556086,
+      "duration": "3000"
+    },
+    {
+      "uid": "TA73M",
+      "url": "board-29-TA73M.png",
+      "newShot": false,
+      "lastEdited": 1668091400599,
+      "layers": {
+        "reference": {
+          "url": "board-29-TA73M-reference.png",
+          "opacity": 1
+        }
+      },
+      "number": 30,
+      "shot": "30A",
+      "time": 88000,
+      "dialogue": "Now you are just insulting me. Just refund my money.",
+      "lineMileage": 0,
+      "duration": "4000"
+    },
+    {
+      "uid": "1NMAR",
+      "url": "board-30-1NMAR.png",
+      "newShot": false,
+      "lastEdited": 1668091413023,
+      "layers": {
+        "reference": {
+          "url": "board-30-1NMAR-reference.png",
+          "opacity": 1
+        }
+      },
+      "number": 31,
+      "shot": "31A",
+      "time": 92000,
+      "dialogue": "To get your money back, you give my joke back",
+      "lineMileage": 0,
+      "duration": "3000"
+    },
+    {
+      "uid": "1VHXL",
+      "url": "board-31-1VHXL.png",
+      "newShot": false,
+      "lastEdited": 1668091436253,
+      "layers": {
+        "reference": {
+          "url": "board-31-1VHXL-reference.png",
+          "opacity": 1
+        }
+      },
+      "number": 32,
+      "shot": "32A",
+      "time": 95000,
+      "dialogue": "What, should i tell back the joke?",
+      "lineMileage": 0,
+      "duration": "3000"
+    },
+    {
+      "uid": "14ICD",
+      "url": "board-32-14ICD.png",
+      "newShot": false,
+      "lastEdited": 1668091446672,
+      "layers": {
+        "reference": {
+          "url": "board-32-14ICD-reference.png",
+          "opacity": 1
+        }
+      },
+      "number": 33,
+      "shot": "33A",
+      "time": 98000,
+      "dialogue": "Yeah!",
+      "lineMileage": 0,
+      "duration": "2000"
+    },
+    {
+      "uid": "H7HXJ",
+      "url": "board-33-H7HXJ.png",
+      "newShot": false,
+      "lastEdited": 1668091459350,
+      "layers": {
+        "reference": {
+          "url": "board-33-H7HXJ-reference.png",
+          "opacity": 1
+        }
+      },
+      "number": 34,
+      "shot": "34A",
+      "time": 100000,
+      "dialogue": "The joke is long and......how can one recall?",
+      "lineMileage": 0,
+      "duration": "4000"
+    },
+    {
+      "uid": "ZS8Z1",
+      "url": "board-34-ZS8Z1.png",
+      "newShot": false,
+      "lastEdited": 1668091471062,
+      "layers": {
+        "reference": {
+          "url": "board-34-ZS8Z1-reference.png",
+          "opacity": 1
+        }
+      },
+      "number": 35,
+      "shot": "35A",
+      "time": 104000,
+      "dialogue": "That isn't my issue....",
+      "lineMileage": 0,
+      "duration": "3000"
+    },
+    {
+      "uid": "0EM1L",
+      "url": "board-34-0EM1L.png",
+      "newShot": false,
+      "lastEdited": 1668091481493,
+      "layers": {
+        "reference": {
+          "url": "board-34-0EM1L-reference.png",
+          "opacity": 1
+        }
+      },
+      "number": 36,
+      "shot": "36A",
+      "time": 107000,
+      "lineMileage": 0,
+      "dialogue": "This is just s***!!!",
+      "duration": "5000"
+    },
+    {
+      "uid": "SA1DA",
+      "url": "board-35-SA1DA.png",
+      "newShot": false,
+      "lastEdited": 1668091647711,
+      "layers": {
+        "reference": {
+          "url": "board-35-SA1DA-reference.png",
+          "opacity": 1
+        },
+        "shot-generator": {
+          "url": "board-35-SA1DA-shot-generator.png",
+          "opacity": 1
+        },
+        "fill": {
+          "url": "board-35-SA1DA-fill.png"
+        },
+        "tone": {
+          "url": "board-35-SA1DA-tone.png"
+        },
+        "pencil": {
+          "url": "board-35-SA1DA-pencil.png"
+        },
+        "ink": {
+          "url": "board-35-SA1DA-ink.png"
+        },
+        "notes": {
+          "url": "board-35-SA1DA-notes.png"
+        }
+      },
+      "number": 37,
+      "shot": "37A",
+      "time": 112000,
+      "audio": {
+        "filename": "SA1DA-human-male-scream-multi-6915_1.wav",
+        "duration": 4138.645833333333
+      },
+      "dialogue": "Ahhhhhh.........!!!!",
+      "lineMileage": 0,
+      "duration": "3000"
+    },
+    {
+      "uid": "AGYHN",
+      "url": "board-38-AGYHN.png",
+      "newShot": false,
+      "lastEdited": 1668100411808,
+      "layers": {
+        "reference": {
+          "url": "board-38-AGYHN-reference.png",
+          "opacity": 1
+        },
+        "shot-generator": {
+          "url": "board-38-AGYHN-shot-generator.png",
+          "opacity": 1
+        },
+        "fill": {
+          "url": "board-38-AGYHN-fill.png"
+        },
+        "tone": {
+          "url": "board-38-AGYHN-tone.png"
+        },
+        "pencil": {
+          "url": "board-38-AGYHN-pencil.png"
+        },
+        "ink": {
+          "url": "board-38-AGYHN-ink.png"
+        },
+        "notes": {
+          "url": "board-38-AGYHN-notes.png"
+        }
+      },
+      "number": 38,
+      "shot": "38A",
+      "time": 115000
+    }
+  ]
+}
